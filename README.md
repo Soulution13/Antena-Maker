@@ -4,6 +4,7 @@ Antena maker is simple device for building antenna from copper sticks. It’s ma
 
 Project is curently under developement. Included files are in .stl and .stp format. Files are ready to 3d print.
 
+![Screenshot](AntenaFiles/Image3.png)
 
 ## Licensing
 
